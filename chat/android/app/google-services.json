@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642740124754",
+    "firebase_url": "https://chat-d4dd5.firebaseio.com",
+    "project_id": "chat-d4dd5",
+    "storage_bucket": "chat-d4dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642740124754:android:e776dcfcc1543c01b8738b",
+        "android_client_info": {
+          "package_name": "com.diego.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642740124754-pcd4g2v5i3tsjohvqn2gcbrfo8ohg4k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUrNljgE1U-ZE0nQeeYKW-L9uhdjOfx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642740124754-pcd4g2v5i3tsjohvqn2gcbrfo8ohg4k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
